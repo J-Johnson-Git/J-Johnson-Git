@@ -1,4 +1,4 @@
-👋 Hi, I’m Josh Johnson!
+Hi, I’m Josh Johnson!
 I'm a WSU graduate with a B.S. in Electrical Engineering. I'm interested in 
 Hardware/Firmware development that has DSP applications, like wired or wireless
 communication systems. I have good experience in FPGA development from my senior year
