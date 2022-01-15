@@ -1,11 +1,10 @@
 Hi, I’m Josh Johnson!
 I'm a WSU graduate with a B.S. in Electrical Engineering. I'm interested in 
-Hardware/Firmware development that has DSP applications, like wired or wireless
-communication systems. I have good experience in FPGA development from my senior year
-project where I worked with a team to prototype an FFT algorithm on a Xilinx FPGA.
+Hardware/Firmware development that has DSP applications. I have good experience in FPGA design from my senior year
+project where I worked with a team to create a proof of concept FFT system on a Xilinx FPGA.
 Our team's design will be used later to create an ASIC used on a waterflow measurement device.
 
-Now I'm focused on improving my skills with C/C++, and developing more DSP-related FPGA projects. 
+Now I'm focused on improving my skills with C/C++, Python, and developing more FPGA projects. 
 Looking forward to sharing the things I make here!
 
 
